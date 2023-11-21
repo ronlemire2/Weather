@@ -1,0 +1,25 @@
+Historical weather data for the previous 5 days
+
+Graphs: Today, Hourly, Daily
+            
+Consider WeatherOneCall initializer to replace current Optional coding
+
+Test for network connection and if network down load weather.json project file for offline data
+
+Experiment with ExpandableLists
+https://www.youtube.com/watch?v=cR_5lbb0yss (recursive lists)
+https://github.com/recoding-io/swiftui-videos
+https://github.com/recoding-io/swiftui-videos/tree/main/Expandable%20Views
+
+https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-expanding-lists
+https://www.youtube.com/watch?v=G0qor4QumfA
+
+https://www.appcoda.com/learnswiftui/swiftui-expandable-list.html
+https://www.appcoda.com/swiftui-expandable-list-view/
+
+List Styling:
+https://peterfriese.dev/posts/swiftui-listview-part1/
+https://peterfriese.dev/posts/swiftui-listview-part2/
+https://peterfriese.dev/posts/swiftui-listview-part3/
+
+https://github.com/recoding-io/swiftui-videos
